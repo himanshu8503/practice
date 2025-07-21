@@ -1,0 +1,26 @@
+.recommended-container{
+margin-left: 20rem;
+}
+
+.recommended-titel{
+    margin: 20px 0;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.recommended-btn{
+display: flex;
+align-items: center;
+gap:1rem;
+}
+
+.btns{
+    background:transparent;
+    padding: 10px 20px;
+    margin-right: 6px;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+}
